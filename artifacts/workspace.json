@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid34537",
+  "B": "/home/dev/feedback/uid34537",
+  "sha": "975d53b7f2ac605d03c168673849acb9f5310e56",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "kgretzky",
+    "repo": "evilginx2",
+    "sha": "975d53b7f2ac605d03c168673849acb9f5310e56"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "evilginx2",
+    "cloneUrl": "https://github.com/Rrr119/evilginx2.git"
+  },
+  "at": "2026-11-22T23:58:39.607Z"
+}
